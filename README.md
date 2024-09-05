@@ -1,4 +1,5 @@
 ![header](header.png)
+# Classification-Based Recommendation System for Crop Planting
 
 ## About
 This project aims to address the challenges in making decisions to grow specific crops under different conditions by developing a crop recommendation system based on a multilabel classification. This project involves a comparison between different classifier models, resulting in Random Forest model as the final model with high performance (F1 score: 0.9949 on unseen data), making the model optimized at recommending crops. With such high performance, the impelentation of the model can help farmers optimize the crop choice, leading to better crop yields and reduce crop failure due to weather and soil factors.
