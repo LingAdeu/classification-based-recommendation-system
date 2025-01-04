@@ -13,3 +13,5 @@ shap==0.45.1
 sklearn==1.2.2
 statsmodels==0.14.2
 xgboost==2.0.3
+joblib==1.2.0
+streamlit==1.36.0
